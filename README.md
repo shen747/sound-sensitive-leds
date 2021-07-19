@@ -26,7 +26,7 @@
 
 After the setup is done as above follow [this](https://www.arduino.cc/en/Guide/ArduinoUno) guide to get your arduino uno setup ready.
 
-Once the setup is ready you can simply open this sketch and upload it to your arduino uno board.
+Once the setup is ready you can simply open this *sound_reactive_leds/sound_reactive_leds.ino* sketch and upload it to your arduino uno board.
 
 #### That's it - You did it!.
 #### I hope you enjoy your new sound sensitive LEDs
