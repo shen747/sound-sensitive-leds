@@ -20,7 +20,7 @@
 
 
 
-*If you've done the setup as above your project box should look something like below (minus the excess hot glue :) )
+*If you've done the setup as above your project box should look something like below (maybe minus the excess hot glue :) )
 
 
 ![My Project Box](assets/diagrams/led-final-project-box.jpg "Title")
