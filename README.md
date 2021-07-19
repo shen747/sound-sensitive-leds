@@ -1,7 +1,7 @@
 # Sound-Sensitive-Leds
 > This is my version of sound sentive LEDs made using the WS2812B LED strip.
 
-*** In order to upload this code into Arduino-Uno you will need to setup components as follows:
+***In order to upload this code into Arduino-Uno you will need to setup components as follows:
 
 ### Component List:
 
