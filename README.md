@@ -11,14 +11,12 @@
 4. Analog Sound Sensor [CORE-ELECTRONICS](https://core-electronics.com.au/analog-sound-sensor.html)
 5. Project Box of your Choice [CORE-ELECTRONICS](https://core-electronics.com.au/plastic-project-box-enclosure-waterproof-clear-cover-6-61x4-72x-2-17-inch.html)
 6. 5v 8A Power Supply [eBay](https://www.ebay.com.au/itm/114604088431?var=414779075060)
-7. Barell Jack Adapter [CORE-ELECTRONICS](https://core-electronics.com.au/dc-barrel-jack-adapter-breadboard-compatible.html)
+7. Barell Jack Adapter Femlae [CORE-ELECTRONICS-BJF](https://core-electronics.com.au/dc-barrel-jack-adapter-female-7392.html) & Male [CORE-ELECTRONICS-BJM](https://core-electronics.com.au/male-dc-power-adapter-2-1mm-plug-to-screw-terminal-block.html)
 
 
 ### The Components should be setup as shown in the diagram below:
 
-
-
-
+![Project Schematic](assets/diagrams/sound-sensitive-leds-schematic.jpg "Title")
 
 *If you've done the setup as above your project box should look something like below (maybe minus the excess hot glue)*
 
